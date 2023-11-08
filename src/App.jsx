@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import ImagenCripto from './img/imagen-criptos.png';
+import Formulario from './components/Formulario';
 
 const Contenedor = styled.div`
 	max-width: 900px;
@@ -36,11 +37,14 @@ const Heading = styled.h1`
 `;
 
 const App = () => {
+
+	
 	return (
 		<Contenedor>
 			<Imagen src={ImagenCripto} alt='imagen-criptos' />{' '}
 			<div>
-				<Heading>COtiza Criptomonedas al instante</Heading>
+				<Heading>Cotiza Criptomonedas al instante</Heading>
+				<Formulario/>
 			</div>
 		</Contenedor>
 	);
