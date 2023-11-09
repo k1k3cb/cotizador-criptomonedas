@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 import ImagenCripto from './img/imagen-criptos.png';
 import Formulario from './components/Formulario';
+import { useEffect, useState } from 'react';
 
 const Contenedor = styled.div`
 	max-width: 900px;
@@ -38,13 +39,24 @@ const Heading = styled.h1`
 
 const App = () => {
 
+	const [monedas, setMonedas] = useState({})
+
+	useEffect(() => {
+	  if(Object.keys(monedas).length>0) {}
+	
+	  
+	}, [monedas])
+	
+
 	
 	return (
 		<Contenedor>
 			<Imagen src={ImagenCripto} alt='imagen-criptos' />{' '}
 			<div>
 				<Heading>Cotiza Criptomonedas al instante</Heading>
-				<Formulario/>
+				<Formulario
+				setMonedas={setMonedas}
+				/>
 			</div>
 		</Contenedor>
 	);
