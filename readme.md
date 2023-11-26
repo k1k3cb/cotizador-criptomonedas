@@ -17,7 +17,7 @@ Desarrollo de una web donde consultar la cotización en vivo de las criptomoneda
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
 Uso de React consultando un API y usando un archivo de JS con la data necesaria.
-USo de  [Styled Components](https://styled-components.com/) para los estilos, [Tobias Ahlin SpinKit](https://tobiasahlin.com/spinkit/) para el spinner y la API de [CryptoCompare](https://www.cryptocompare.com/).
+[Styled Components](https://styled-components.com/) para los estilos, [Tobias Ahlin SpinKit](https://tobiasahlin.com/spinkit/) para el spinner y la API de [CryptoCompare](https://www.cryptocompare.com/).
 
 ## Tecnologías 🛠
 
@@ -27,7 +27,7 @@ USo de  [Styled Components](https://styled-components.com/) para los estilos, [T
 
 [![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://es.react.dev/)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)(https://styled-components.com/)
+[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
 
 
