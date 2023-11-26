@@ -1,22 +1,23 @@
-# Weather App MUI
+# Cotizador de criptomonedas
 
-![Imagen del proyecto](https://github.com/k1k3cb/Weather-App-MUI/blob/main/public/screenShoots/img1.png)
+![Imagen del proyecto](https://github.com/k1k3cb/cotizador-criptomonedas/blob/main/public/screenShoot1.png)
 
 ## Ejemplo en vivo
  
 
-- [Enlace al proyecto](https://weather-app-mui.onrender.com/)
+- [Enlace al proyecto](https://cotizador-criptomonedas.onrender.com/)
 
 
 ## Descripción 📑
 
-Desarrollo de una web para consultar el tiempo que hace en la ciudad buscada, utilizando React y Material UI.
+Desarrollo de una web donde consultar la cotización en vivo de las criptomonedas más usadas.
 
 
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-El uso de  [Material UI](https://mui.com/) y de la API de [Weather API](https://www.weatherapi.com/).
+Uso de React consultando un API y usando un archivo de JS con la data necesaria.
+USo de  [Styled Components](https://styled-components.com/) para los estilos, [Tobias Ahlin SpinKit](https://tobiasahlin.com/spinkit/) para el spinner y la API de [CryptoCompare](https://www.cryptocompare.com/).
 
 ## Tecnologías 🛠
 
@@ -25,8 +26,8 @@ El uso de  [Material UI](https://mui.com/) y de la API de [Weather API](https://
 
 
 [![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://postcss.org/)
-![MATERIAL UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://es.react.dev/)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)(https://styled-components.com/)
 
 
 
@@ -36,7 +37,7 @@ El uso de  [Material UI](https://mui.com/) y de la API de [Weather API](https://
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/k1k3cb/Weather-App-MUI/blob/main/public/screenShoots/img2.png)
+![Captura del proyecto](https://github.com/k1k3cb/cotizador-criptomonedas/blob/main/public/screenShoot2.png)
 
 
 
